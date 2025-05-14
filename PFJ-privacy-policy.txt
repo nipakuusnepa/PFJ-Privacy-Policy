@@ -1,0 +1,70 @@
+Privacy Policy
+
+Effective Date: [Insert Date]
+
+Your privacy is important to us. This Privacy Policy describes how your personal information is collected, used, and disclosed when you use our mobile game ("the App").
+1. Information We Collect
+
+When you use the App, we and our third-party partners (such as Google AdMob and Firebase) may collect the following types of information:
+
+    Device type and operating system
+    Mobile advertising identifiers (e.g., IDFA, GAID)
+    Approximate location (based on IP)
+    Language and country settings
+    App usage data (e.g., session length, interactions)
+    Gameplay behavior (e.g., progress, level completions, crashes)
+
+We use this data to serve ads, analyze usage, and improve the player experience.
+2. Analytics
+
+We use Firebase Analytics to better understand how players interact with the App and to improve gameplay features and performance. Firebase may collect anonymized data such as:
+
+    Screens visited
+    In-game events (e.g., level completion, button taps)
+    Device type and OS version
+    Crash reports and performance metrics
+
+For more information, please see Google’s Privacy Policy and Firebase Data Collection.
+3. Advertising and Mediation Partners
+
+We use Google AdMob and its Mediation platform to serve banner and interstitial ads. These mediation partners include:
+
+    AdColony
+    AppLovin
+    Chartboost
+    Facebook Audience Network
+    InMobi
+    ironSource
+    Pangle
+    Unity Ads
+    Vungle
+
+4. Children’s Privacy
+
+The App is suitable for a general audience, including children, but is not primarily directed at children under 13 (or under 16 in the EU). We do not knowingly collect personal information from children.
+
+If you are a parent or guardian and believe we have collected information from a child without proper consent, please contact us at nluhtanen@gmail.com, and we will promptly remove the information.
+5. GDPR and CCPA Compliance
+For users in the EEA:
+
+    We request your consent before serving personalized ads
+    You can manage or withdraw your consent through the app's settings (if supported)
+    You may request access to, correction, or deletion of your personal data
+
+For users in California:
+
+    You have the right to know what personal data is collected and shared
+    You may opt out of the sale or sharing of your personal data
+    We do not sell personal data as defined under CCPA
+
+6. Data Security
+
+We and our partners take appropriate security measures to protect your information. However, no transmission or storage system is 100% secure.
+7. Changes to This Privacy Policy
+
+We may update this Privacy Policy to reflect changes in our practices. The latest version will be made available within the App and on our app store listings. Your continued use of the App signifies your agreement with the updated policy.
+8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, contact us at:
+
+Email: nluhtanen@gmail.com
